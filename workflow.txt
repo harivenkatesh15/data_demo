@@ -1,0 +1,16 @@
+1. Created feature branch feature/hari-setup.
+
+2. Added repository structure.
+
+3. Committed changes using conventional commit.
+
+4. Pushed feature branch.
+
+5. Created Pull Request.
+
+6. Team reviewed the changes.
+
+7. Pull Request was approved.
+
+8. Merged into main.
+
